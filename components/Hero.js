@@ -24,7 +24,7 @@ export default function Hero() {
         </p>
 
         <a
-          href="https://wa.me/966502862306"
+          href="https://wa.me/966590385488"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block rounded-full bg-yellow-500 px-8 py-4 font-bold text-black transition hover:bg-yellow-400"

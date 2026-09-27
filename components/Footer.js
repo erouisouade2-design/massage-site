@@ -12,7 +12,7 @@ export default function Footer() {
         </p>
 
         <a
-          href="https://wa.me/966502862306"
+          href="https://wa.me/966590385488"
           target="_blank"
           rel="noopener noreferrer"
           className="text-green-400 transition hover:text-green-300"

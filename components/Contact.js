@@ -16,7 +16,7 @@ export default function Contact() {
         </p>
 
         <a
-          href="https://wa.me/966502862306"
+          href="https://wa.me/966590385488"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block rounded-full bg-green-600 px-8 py-4 font-bold transition hover:bg-green-700"
